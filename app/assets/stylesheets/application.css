@@ -136,3 +136,18 @@
 .new-post-button:hover {
   background: #218838;
 }
+
+.delete-button {
+  background: #dc3545;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  margin-top: 10px;
+}
+
+.delete-button:hover {
+  background: #c82333;
+}

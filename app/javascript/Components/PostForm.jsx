@@ -24,7 +24,7 @@ export const PostForm = () => {
       console.error(error)
     }
   }
-
+  
   return (
     <div className="post-form">
       <h2>Crear Nuevo Post</h2>
