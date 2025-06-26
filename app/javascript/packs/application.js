@@ -13,3 +13,13 @@
 //
 // const images = require.context('./images', true)
 // const imagePath = (name) => images(name, true)
+
+
+import ReactOnRails from "react-on-rails";
+import { PostList } from "../Components/PostList";
+import { PostForm } from "../Components/PostForm";
+
+ReactOnRails.register({
+  PostList,
+  PostForm,
+});
