@@ -1,5 +1,14 @@
 # Blogify - React on Rails Blog Application
 
+## 🌐 **APLICACIÓN EN VIVO**
+
+✨ **¡Prueba la aplicación ahora!** ✨
+
+🚀 **Railway**: https://blogify-production-2870.up.railway.app  
+🚀 **Render**: https://blogify-1ukh.onrender.com/
+
+---
+
 Una aplicación de blog desarrollada con **Ruby on Rails 8** y **React**, utilizando **Shakapacker** para la gestión de assets y **Axios** para peticiones HTTP.
 
 ## 🚀 Características
